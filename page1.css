@@ -1,0 +1,43 @@
+header{
+	background-color: lightblue;
+	color: white;
+	padding: 5px 550px 10px 550px;
+	text-align: center;
+}
+body{
+	background:  linear-gradient(to right, #36d1dc, #5b86e5);
+}
+#intro1{
+	padding: 15px;
+	margin-left: 10px;
+}
+
+#lakshay{
+	margin: 4px 200px;
+}
+#lakshay:hover{
+	
+}
+#name1{
+	margin-left: 500px;
+	margin-top: -100px;
+}
+#company1{
+	margin-left: 500px;
+	margin-top: -12px;
+	word-spacing: 0.25em;
+}
+#about1{
+	margin: 0px 175px;
+	padding: 0px 25px;
+	line-height: 2;
+	word-spacing: 0.25em;
+	font-size: 1.25em;
+
+}
+#home{
+	border: 3px solid black;
+	margin: 3px 170px;
+	padding: 0px 25px;
+
+}
